@@ -1,0 +1,27 @@
+{
+  "name": "demonodejs",
+  "version": "1.0.0",
+  "description": "node with testing tool mocha with jenkinsfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reddi16181/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reddi16181/node-app/issues"
+  },
+  "homepage": "https://github.com/reddi16181/node-app#readme"
+}
